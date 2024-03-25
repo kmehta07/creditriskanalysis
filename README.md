@@ -1,4 +1,5 @@
-Executive Summary
+Executive Summary :
+
 Our research undertook a comprehensive exploration into the dynamics of credit risk
 fraud of various customers present in the dataset. We analyzed the behavior patterns of
 a large number of individuals that may indicate potential credit risk or fraudulent
